@@ -1,0 +1,11 @@
+﻿Build started 19/07/2015 16:31:10.
+     1>Project "C:\Users\Jose\Desktop\programing C++\paperProblem\paperProblem\paperProblem.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt paperProblem.cpp
+         paperProblem.cpp
+     1>c:\users\jose\desktop\programing c++\paperproblem\paperproblem\paperproblem.cpp(10): error C4700: uninitialized local variable 'peoples' used
+     1>Done Building Project "C:\Users\Jose\Desktop\programing C++\paperProblem\paperProblem\paperProblem.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.04
